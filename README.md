@@ -11,6 +11,7 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - RL from Stanford: [CS234](https://web.stanford.edu/class/cs234/)
 - RL Winter 2021 Stanford: [Modules and Videos](https://web.stanford.edu/class/cs234/modules.html)
 - [Common RL Examples on Sagemaker](https://github.com/kkm24132/amazon-sagemaker-examples/tree/master/reinforcement_learning)
+- Initial Part MABPs: [Epsilon, epsilon-Greedy methods](https://www.datahubbs.com/multi_armed_bandits_reinforcement_learning_1/)
 - Advanced MABPs: [UCB Bandits, Gradient Bandits, Nonstationary Bandits](https://www.datahubbs.com/multi-armed-bandits-reinforcement-learning-2/)
 
 ### Resources
