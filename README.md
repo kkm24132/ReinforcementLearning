@@ -3,6 +3,8 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 
 ### Use Cases
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
+- [Applications in real world](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
+
 ### References
 - Book1: [Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - Book2: [DL by Ian Goodfellow et al](https://www.deeplearningbook.org/)
