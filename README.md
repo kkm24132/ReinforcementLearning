@@ -1,6 +1,9 @@
 # Reinforcement Learning
 Focuses on Reinforcement Learning related concepts, use cases and learning approaches
 
+### Areas
+- MABP (Multi-Armed Bandit Problems)
+
 ### Use Cases
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
 - [Applications in real world](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
