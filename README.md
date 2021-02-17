@@ -5,6 +5,9 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - MABP (Multi-Armed Bandit Problems)
 
 ### Use Cases
+- Clinical Trials: The well being of patients during clinical trials is extremely important along with the actual results of the study. In this scenario, the exploration is equivalent to identifying the best treatment, and exploitation is treating patients as effectively as possible during the trial process.
+- Network Routing: Routing is the process of selecting a path for traffic in a network, such as telephone networks or computer networks (internet) etc. Allocation of channels to the right users, such that the overall throughput is maximised, can be formulated as a MABP.
+- Online Advertising: The goal of an advertising campaign is to maximise revenue from displaying ads. The advertiser makes revenue every time an offer is clicked by a web user. Similar to MABP, there is a trade-off between exploration, where the goal is to collect information on an ad’s performance using click-through rates, and exploitation, where we stick with the ad that has performed the best so far.
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
 - [Applications in real world](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
 
