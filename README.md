@@ -7,6 +7,12 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - **Environment**: This is the agent's learning area or learning space.
 - **Action**: This is choice of activity in a state, the action is taken by the agent: may be positive or negative. Correct actions by agent lead to positive rewards.
 - **Reward**: This is the prize for taking incorrect or correct action.
+- **Policy**: Strategy or method for determining the best action.
+- **Goal** or **Mission**: Objective of the agent
+
+- Environment Models are of two types:
+  - Model Free (Agent have no idea of the environment and tries to learn from "unknown" environment)
+  - Model Based (Agent learns with full knowledge of the environment)
 
 ### Areas
 - MABP (Multi-Armed Bandit Problems)
