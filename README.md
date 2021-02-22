@@ -25,6 +25,9 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
   - State Value Function (Expected Value of Reward in a particular state) : Total reward gained by agent from its current state to it's goal state
   - Action Value Function (used for more optimal policies - Expected Value of Reward in a particular state given that the agent has taken an initial action)
 
+### Monte Carlo Method
+- One way an Agent can take the best path/policy/trajectory so as to get the best cumulative reward.
+- Equiprobable Random Policy: initial policy used by the agent with no prior knowledge of the environment
 
 ### Areas
 - MABP (Multi-Armed Bandit Problems)
