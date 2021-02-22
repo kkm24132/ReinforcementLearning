@@ -2,9 +2,11 @@
 Focuses on Reinforcement Learning related concepts, use cases and learning approaches
 
 ### Key Terms
-- Agent: "The learner". Agent is the main part of a RL setup. From an example perspective, it could be a robot learning to do certain things as an agent, can be walking for that matter, or it could be an agent learning to "drive" a vehicle. They explore environments
-- State: This is the position the agent is at a given period. It changes when the agent moves. Different positions in a given environment is called as "State".
-- Environment: This is the agent's learning area or learning space.
+- **Agent**: "The learner". Agent is the main part of a RL setup. From an example perspective, it could be a robot learning to do certain things as an agent, can be walking for that matter, or it could be an agent learning to "drive" a vehicle. They explore environments
+- **State**: This is the position the agent is at a given period. It changes when the agent moves. Different positions in a given environment is called as "State".
+- **Environment**: This is the agent's learning area or learning space.
+- **Action**: This is choice of activity in a state, the action is taken by the agent: may be positive or negative. Correct actions by agent lead to positive rewards.
+- **Reward**: This is the prize for taking incorrect or correct action.
 
 ### Areas
 - MABP (Multi-Armed Bandit Problems)
