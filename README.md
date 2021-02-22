@@ -17,6 +17,11 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
   - Episodic (Tasks that have a definite goal or end point) - are solved by model-based methods
   - Continuing Tasks (Tasks do not have a definite goal, they continue for ever) - are typically solved by model-free methods
 
+### Markov Decision Process
+- How RL problems are represented mathematically
+- Typical parameters are States, Actions, Rewards, Environment, Discount Factor etc.
+- Discount Factor = Reward Function
+
 ### Areas
 - MABP (Multi-Armed Bandit Problems)
 
