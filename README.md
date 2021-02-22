@@ -10,9 +10,12 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - **Policy**: Strategy or method for determining the best action.
 - **Goal** or **Mission**: Objective of the agent
 
-- Environment Models are of two types:
+- **Environment Models** are of two types:
   - Model Free (Agent have no idea of the environment and tries to learn from "unknown" environment)
   - Model Based (Agent learns with full knowledge of the environment)
+- **Task Type** are of two categories:
+  - Episodic (Tasks that have a definite goal or end point) - are solved by model-based methods
+  - Continuing Tasks (Tasks do not have a definite goal, they continue for ever) - are typically solved by model-free methods
 
 ### Areas
 - MABP (Multi-Armed Bandit Problems)
