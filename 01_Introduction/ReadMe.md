@@ -43,6 +43,9 @@ Model of environment
 - One way an Agent can take the best path/policy/trajectory so as to get the best cumulative reward.
 - Equiprobable Random Policy: initial policy used by the agent with no prior knowledge of the environment
 - Updates Q-table at the end of every episode
+- First-visit and Every-visit MC prediction:
+  - First-visit MC Prediction: Takes only the first visit to a state into consideration
+  - Every-visit MC prediction: Takes a state as a new state every time it is visited
 
 ### Temporal Difference Method
 - Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
