@@ -25,6 +25,7 @@ Model of environment
   - **Exploitation** is selecting actions tried by the agent that are known to give high rewards
   - **Exploration** is selecting actions never tried before to see what rewards they might give
   - **TradeOff**: exploit by picking actions known to yield good results while exploring actions not picked previously
+  - **Strategy**: is to initially favor exploration and then lean towards exploitation
 - **Task Type** are of two categories:
   - Episodic (Tasks that have a definite goal or end point) - are solved by model-based methods
   - Continuing Tasks (Tasks do not have a definite goal, they continue for ever) - are typically solved by model-free methods
