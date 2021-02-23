@@ -37,6 +37,7 @@ Model of environment
 - **Bellman Equation** is used to solve MDP
   - State Value Function (Expected Value of Reward in a particular state) : Total reward gained by agent from its current state to it's goal state
   - Action Value Function (used for more optimal policies - Expected Value of Reward in a particular state given that the agent has taken an initial action)
+  - Represented as: ``` V_π (S)=E_π [R_t+|+γV_Π (S_(t+1) )| S_(t=) s] ```
 
 ### Monte Carlo Method
 - One way an Agent can take the best path/policy/trajectory so as to get the best cumulative reward.
