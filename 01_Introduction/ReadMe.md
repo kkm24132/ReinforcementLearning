@@ -45,3 +45,15 @@ Model of environment
 ### Temporal Difference Method
 - Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
 - Updates Q-table at every time step
+
+
+### Deep Reinforcement Learning
+- Using Neural Nets to map states and actions to rewards
+
+### Inverse Reinforcement Learning
+- Agents learning by imitation
+
+### Multi-Agent Reinforcement Learning
+- Multiple RL agents learning side by side at the same time
+
+
