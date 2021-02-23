@@ -51,6 +51,15 @@ Model of environment
   - Step1: Construct Q-table using equiprobable random policies
   - Step2: Improve policy using Bellman Equation
   - Step3: Update Q-table
+- Monte Carlo with and without Incremental Mean:
+  - With Incremental Mean: Updates Q-table after an episode
+  - Without Incremental Mean: Updates Q-table after multiple episodes
+ 
+### Additional Terms used in RL
+- **Greedy Policies**: Policies that only select the best action
+- **Epsilon-Greedy Policies**: Policies that select other actions
+- **Incremental Mean**: Used to update the policy after every episode, Tending towards TD method
+- **Constant Alpha**: Rate at which the agent learns. Used to update the policy after every episode
 
 ### Temporal Difference Method
 - Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
