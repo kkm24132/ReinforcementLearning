@@ -40,7 +40,8 @@ Model of environment
 ### Monte Carlo Method
 - One way an Agent can take the best path/policy/trajectory so as to get the best cumulative reward.
 - Equiprobable Random Policy: initial policy used by the agent with no prior knowledge of the environment
+- Updates Q-table at the end of every episode
 
 ### Temporal Difference Method
 - Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
-- 
+- Updates Q-table at every time step
