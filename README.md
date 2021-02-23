@@ -4,7 +4,13 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - [**01_Introduction**](https://github.com/kkm24132/ReinforcementLearning/tree/main/01_Introduction) covers Key Terms used in RL, Basic elements, Concepts/Topics around RL etc.
 
 ### Areas
-- MABP (Multi-Armed Bandit Problems)
+- Multi-Armed Bandit Problems (MABP)
+- Finite Markov Decision Processes (MDP)
+- Dynamic Programming Methods
+- Monte Carlo Methods
+- Temporal Difference (TD) Learning
+- n-Step Bootstrapping
+- Tabular Solution Methods and Approximate Solution Methods
 
 ### Use Cases
 - Clinical Trials: The well being of patients during clinical trials is extremely important along with the actual results of the study. In this scenario, the exploration is equivalent to identifying the best treatment, and exploitation is treating patients as effectively as possible during the trial process.
