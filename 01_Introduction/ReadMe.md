@@ -46,6 +46,11 @@ Model of environment
 - First-visit and Every-visit MC prediction:
   - First-visit MC Prediction: Takes only the first visit to a state into consideration
   - Every-visit MC prediction: Takes a state as a new state every time it is visited
+- Monte Carlo Control:
+  - Iterates between exploration and exploitation to improve policy. The Monte Carlo Control is about switching between below 3 steps to accomplish best policy and reward.
+  - Step1: Construct Q-table using equiprobable random policies
+  - Step2: Improve policy using Bellman Equation
+  - Step3: Update Q-table
 
 ### Temporal Difference Method
 - Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
