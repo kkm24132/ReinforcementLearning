@@ -41,4 +41,6 @@ Model of environment
 - One way an Agent can take the best path/policy/trajectory so as to get the best cumulative reward.
 - Equiprobable Random Policy: initial policy used by the agent with no prior knowledge of the environment
 
-
+### Temporal Difference Method
+- Updates estimates of value function: ``` V(St) <- V(St) + alpha (rt+1 + V(St+1) - V(St)) ```
+- 
