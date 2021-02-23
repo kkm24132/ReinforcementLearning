@@ -42,5 +42,5 @@ Model of environment
 - Equiprobable Random Policy: initial policy used by the agent with no prior knowledge of the environment
 
 ### Temporal Difference Method
-- Updates estimates of value function: ``` V(St) <- V(St) + alpha (rt+1 + V(St+1) - V(St)) ```
+- Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
 - 
