@@ -1,8 +1,7 @@
-# Reinforcement Learning
+# Reinforcement Learning (RL)
 Focuses on Reinforcement Learning related concepts, use cases and learning approaches
 
-- [**01_Introduction**](https://github.com/kkm24132/ReinforcementLearning/tree/main/01_Introduction) covers Key terms used in RL, concepts etc.
-
+- [**01_Introduction**](https://github.com/kkm24132/ReinforcementLearning/tree/main/01_Introduction) covers Key Terms used in RL, Concepts/Topics around RL etc.
 
 ### Areas
 - MABP (Multi-Armed Bandit Problems)
