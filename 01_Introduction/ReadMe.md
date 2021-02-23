@@ -21,6 +21,10 @@ Model of environment
 - **Environment Models** or **Models of environment**: It mimics the behaviour of the environment. It can be used for predicting the next states and rewards given the current state and action. These are of two types.
   - Model Free (Agent have no idea of the environment and tries to learn from "unknown" environment) - trial and error methods, no planning. Real learning happens here.
   - Model Based (Agent learns with full knowledge of the environment) - with adequate planning.
+- **Trade Off** between Exploration and Exploitation:
+  - **Exploitation** is selecting actions tried by the agent that are known to give high rewards
+  - **Exploration** is selecting actions never tried before to see what rewards they might give
+  - **TradeOff**: exploit by picking actions known to yield good results while exploring actions not picked previously
 - **Task Type** are of two categories:
   - Episodic (Tasks that have a definite goal or end point) - are solved by model-based methods
   - Continuing Tasks (Tasks do not have a definite goal, they continue for ever) - are typically solved by model-free methods
