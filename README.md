@@ -2,6 +2,7 @@
 Focuses on Reinforcement Learning related concepts, use cases and learning approaches
 
 - [**01_Introduction**](https://github.com/kkm24132/ReinforcementLearning/tree/main/01_Introduction) covers Key Terms used in RL, Basic elements, Concepts/Topics around RL etc.
+- [**02_MAB**](https://github.com/kkm24132/ReinforcementLearning/tree/main/02_MAB) covers Multi-Armed Bandit Problem area
 
 ### Areas
 - Multi-Armed Bandit Problems (MABP)
