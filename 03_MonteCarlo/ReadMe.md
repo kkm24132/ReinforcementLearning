@@ -20,3 +20,6 @@
 
 ### Monte Carlo Policy Evaluation
 
+- Goal: is to learn the value function v_pi(s) from episodes of experience under a policy pi. Recall that the return is the total discounted reward: ```S1, A1, R2, ...Sk ~ pi```
+- Value function is the expected return: ```v_pi(s) = E-pi(Gt | St = s)```
+- We can estimate any expected value simply by adding up samples and dividing by the total number of samples: ```Vbar_pi(s) = Sum of Gi,s / N ...for i=1 to N```  (i = episode index, s = index of state)
