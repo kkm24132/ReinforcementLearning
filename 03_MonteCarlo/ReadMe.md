@@ -26,6 +26,17 @@
 
 ### First-visit Monte Carlo
 
+Average returns only for first time s is visited in an episode.
+- 1) Initialize the policy, state-value function
+- 2) Start by generating an episode according to the current policy
+  - Keep track of the states encountered through that episode
+- 3) Select a state in previous step
+  - Add to a list the return received after first occurrence of this state
+  - Average over all returns
+  - Set the value of the state as that computed average
+- 4) Repeat previous step
+- 5) Repeat 2 through 4 until satisfied
+
 ### Every visit Monte Carlo
 
 
