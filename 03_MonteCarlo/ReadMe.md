@@ -5,5 +5,5 @@
 
 - Gridworld example: https://github.com/michaeltinsley/Gridworld-with-Q-Learning-Reinforcement-Learning-/blob/master/Gridworld.ipynb
 
-- Blackjack example for MC with first visit : https://github.com/ShangtongZhang/reinforcement-learning-an-introduction/tree/master/chapter05
-- 
+- Blackjack example for MC with first visit: https://github.com/ShangtongZhang/reinforcement-learning-an-introduction/tree/master/chapter05
+- Some more Blackjack and MC examples: https://github.com/udacity/deep-reinforcement-learning/blob/master/monte-carlo/Monte_Carlo_Solution.ipynb
