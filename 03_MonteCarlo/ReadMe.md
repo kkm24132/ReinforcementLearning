@@ -9,3 +9,14 @@
 - Some more Blackjack and MC examples: https://github.com/udacity/deep-reinforcement-learning/blob/master/monte-carlo/Monte_Carlo_Solution.ipynb
 
 - Other Youtube examples from Siraj videos: https://www.youtube.com/watch?v=-YpalutQCKw
+
+
+### Monte Carlo RL
+
+- The MC method for RL learns directly from episodes of experience without any prior knowledge of MDP transitions. The random component is the return or reward.
+- One caveat here is that it can only be applied to episodic MDPs. The reason is that the episode has to terminate before we can calculate any returns. Here, we don’t do an update after every action, but rather after every episode. It uses the simplest idea – the value is the mean return of all sample trajectories for each state.
+- Recalling the idea from MABPs, every state is a separate multi-armed bandit problem and the idea is to behave optimally for all multi-armed bandits at once.
+- Similar to dynamic programming, there is a policy evaluation (finding the value function for a given random policy) and policy improvement step (finding the optimum policy).
+
+### Monte Carlo Policy Evaluation
+
