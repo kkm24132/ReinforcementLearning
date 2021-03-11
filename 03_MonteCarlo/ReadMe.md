@@ -61,5 +61,8 @@ It finds out the optimal policy by finding actions that maximize the sum of rewa
 ``` pi(s) = argmax a  q(s,a) ```
 A greedy policy (like this) will always favor a certain action if most actions are not explored properly. There are two solutions for this: a) MC with exploring starts, b) MC with epsilon-Soft
 
+### MC with Exploring Starts (ES)
+
+![MC With Exploring Starts](https://github.com/kkm24132/ReinforcementLearning/blob/main/03_MonteCarlo/MC_With_ExploringStarts.png)
 
 
