@@ -53,4 +53,13 @@ Only step 3.1 below is different than that of above first-visit MC method.
 - 5. Repeat 2 through 4 until satisfied
 
 
+### Monte Carlo Control
+
+Once we have the value function for a random policy, the key task that still remains is that of finding the optimal policy using Monte Carlo. (Similar to dynamic programming) Recall that the formula for policy improvement in DP required the model of the environment as shown in the following equation:
+```pi_dash(s) = argmax a Sum p(s_dash, r | s,a)(r + gamma * v_pi(s_dash)) ```
+It finds out the optimal policy by finding actions that maximize the sum of rewards. However, a major caveat here is that it uses transition probabilities, which is not known in the case of model-free learning. Since we do not know the state transition probabilities p(s’,r/s,a), we can’t do a look-ahead search like DP. Hence, all the information is obtained via experience of playing the game or exploring the environment. Policy improvement is done by making the policy greedy with respect to the current value function. In this case, we have an action-value function, and therefore no model is needed to construct the greedy policy.
+``` pi(s) = argmax a  q(s,a) ```
+A greedy policy (like this) will always favor a certain action if most actions are not explored properly. There are two solutions for this: a) MC with exploring starts, b) MC with epsilon-Soft
+
+
 
