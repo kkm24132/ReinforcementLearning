@@ -63,6 +63,12 @@ Model of environment
 
 ### On-Policy and Off-Policy Methods
 
+On-Policy Method | Off-Policy Method
+-----------------|------------------
+Evaluate or improve policy used to make decisions | Evaluate or improve a policy different from that used to make decisions
+Work with data generated from target policy itself | Work with data generated from a behaviour policy (different from target policy)
+
+
 - On-Policy
   - Evaluate or improve policy used to make decisions
 - Off-Policy
