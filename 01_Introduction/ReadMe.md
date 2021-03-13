@@ -67,6 +67,8 @@ On-Policy Method | Off-Policy Method
 -----------------|------------------
 Evaluate or improve policy used to make decisions | Evaluate or improve a policy different from that used to make decisions
 Work with data generated from target policy itself | Work with data generated from a behaviour policy (different from target policy)
+Lower variance and Faster convergence | Higher variance and slower convergence (since data is from a different policy)
+Less general methods | More general and powerful approaches (since they contain on-policy methods for the case when  Target Policy = Behaviour Policy)
 
 
 - On-Policy
