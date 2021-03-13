@@ -61,6 +61,16 @@ Model of environment
 - **Incremental Mean**: Used to update the policy after every episode, Tending towards TD method
 - **Constant Alpha**: Rate at which the agent learns. Used to update the policy after every episode
 
+### On-Policy and Off-Policy Methods
+
+- On-Policy
+  - Evaluate or improve policy used to make decisions
+- Off-Policy
+  - Evaluate or improve a policy different from that used to make decisions
+  - Are needed where data can only be generated using a given policy while still the goal is to get to the optimal policy
+  - They solve a constrained optimization problem as opposed to On-Policy methods in the sense of data availability
+
+
 ### Temporal Difference Method
 - Updates estimates of value function: ``` v(s_t )=v(s_t )+α(r_(t+1)+v(s_(t+1) )-v(s_t )) ```
 - Updates Q-table at every time step
