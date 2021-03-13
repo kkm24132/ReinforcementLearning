@@ -69,14 +69,8 @@ Evaluate or improve policy used to make decisions | Evaluate or improve a policy
 Work with data generated from target policy itself | Work with data generated from a behaviour policy (different from target policy)
 Lower variance and Faster convergence | Higher variance and slower convergence (since data is from a different policy)
 Less general methods | More general and powerful approaches (since they contain on-policy methods for the case when  Target Policy = Behaviour Policy)
-
-
-- On-Policy
-  - Evaluate or improve policy used to make decisions
-- Off-Policy
-  - Evaluate or improve a policy different from that used to make decisions
-  - Are needed where data can only be generated using a given policy while still the goal is to get to the optimal policy
-  - They solve a constrained optimization problem as opposed to On-Policy methods in the sense of data availability
+These are NOT needed where data can only be generated using a given policy while still the goal is to get to the optimal policy | These are needed where data can only be generated using a given policy while still the goal is to get to the optimal policy
+They Do NOT solve a constrained optimization problem in the sense of data availability | They solve a constrained optimization problem as opposed to On-Policy methods in the sense of data availability
 
 
 ### Temporal Difference Method
