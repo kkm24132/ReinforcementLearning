@@ -65,4 +65,29 @@ A greedy policy (like this) will always favor a certain action if most actions a
 
 ![MC With Exploring Starts](https://github.com/kkm24132/ReinforcementLearning/blob/main/03_MonteCarlo/MC_With_ExploringStarts.png)
 
+### Off-Policy MC Prediction procedure
+
+Q(S_t,A_t) <- Q(S_t,A_t) + w / C(S_t,A_t)
+
+### Off-Policy MC Control Procedure
+By Control - we mean more optimal target policy
+Constraint problem
+
+- Assume that behaviour soft i.e. there is non-zero probability of selecting every feasible action in each state
+- Algorithm: (Off  Policy MC Control for estimating Policy pi = pi_star)
+  - Initialize Q(s,a) E R
+  - Initialize C(s,a) <- 0
+  - pi(s) <- argmax a  Q(s,a)
+
+### Discounting Aware Importance Sampling
+
+- One needs to take into account that returns are discounted while deriving Importance Sampling (IS) estimates
+- Example: 
+  - Let Gamma = 0
+  - Episodes last for 100 steps
+  - Return from time 0 is then: G_0 = R_1 + Gamma R_2 + .......Gamma ^ T-1 . R_T = R1
+  - IS Ratio : 
+  - These terms do not contribute to the bias in the estimator, but do contribute to the variance
+- 
+
 
