@@ -88,6 +88,13 @@ Constraint problem
   - Return from time 0 is then: G_0 = R_1 + Gamma R_2 + .......Gamma ^ T-1 . R_T = R1
   - IS Ratio : 
   - These terms do not contribute to the bias in the estimator, but do contribute to the variance
-- 
+- Thus, the return from time t can be written as a partial sum of discounted returns
+- G_t =
+- These returns can be scaled using truncated IS ratios
+- Ordinary IS Estimator
+- Weighted IS Estimator
+- 2nd approach: Per decision IS
+  - Can reduce variance even when Gamma=1
 
+- Ordinary IS Estimator - research problem - Not clear f there exists a per-decision version of weighted IS and all estimates proposed in literature do not converge to true value.
 
