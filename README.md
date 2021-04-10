@@ -5,6 +5,7 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - [**02_MAB**](https://github.com/kkm24132/ReinforcementLearning/tree/main/02_MAB) covers Multi-Armed Bandit Problem area
 - [**03_Monte Carlo Methods**](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo) covers Monte Carlo Methods
 - [**04_Temporal Difference Learning**](https://github.com/kkm24132/ReinforcementLearning/tree/main/04_TemporalDiff) covers Monte Carlo Methods
+- [**05_Dynamic Programming**](https://github.com/kkm24132/ReinforcementLearning/tree/main/05_DynamicProgramming) covers Dynamic Programming
 
 ### Areas
 - Multi-Armed Bandit Problems (MABP)
