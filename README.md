@@ -34,10 +34,14 @@ Online Advertising | The goal of an advertising campaign is to maximise revenue 
 ### "Staying Current" in RL
 
 - There are 3 key aspects which are pertinent to greater control of RL algorithms and it's solving power:
-  - Design approach to see how rewards can be maximized when agent learns
-  - Importance and relevancy of the Learning environment
-  - Compute power which is significant where we look for approximation or linear/non-linear function approximations
-- 
+  - **Design approach** to see how rewards can be maximized when agent learns
+  - Importance and relevancy of **the Learning environment**
+  - **Compute power** which is significant where we look for approximation or linear/non-linear function approximations
+- Soft-actor critic algorithms are significantly increasing the training efficiency and decreasing compute costs
+- Some of the Key cloud computing work that can be looked at:
+  - Microsoft Project Bonsai [Here](https://docs.microsoft.com/en-us/bonsai/product/)
+  - Google SEED-RL [Here](https://research.google/pubs/pub48767/)
+  - Amazon Sagemaker RL [Here](https://docs.aws.amazon.com/sagemaker/latest/dg/reinforcement-learning.html)
 
 ### References
 - Book1: [Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html)
