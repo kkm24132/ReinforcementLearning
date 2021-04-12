@@ -38,6 +38,8 @@ Online Advertising | The goal of an advertising campaign is to maximise revenue 
   - Importance and relevancy of **the Learning environment**
   - **Compute power** which is significant where we look for approximation or linear/non-linear function approximations
 - Soft-actor critic algorithms are significantly increasing the training efficiency and decreasing compute costs
+  - [Off Policy Maximum Entropy Deep RL with a stochastic actor](https://arxiv.org/abs/1801.01290)
+  - [Tuomas Haarnoja et al on other Soft-actor critic algorithms](https://arxiv.org/abs/1812.05905)
 - Some of the Key cloud computing work that can be looked at:
   - Microsoft Project Bonsai [Here](https://docs.microsoft.com/en-us/bonsai/product/)
   - Google SEED-RL [Here](https://research.google/pubs/pub48767/)
