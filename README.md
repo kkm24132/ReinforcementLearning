@@ -31,14 +31,14 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 
 ### Use Cases (Non-exhaustive, for understanding purposes)
 
-Use Case Theme | Description  | Industry Relevancy
----------------|--------------|-------------------
-Clinical Trials | The well being of patients during clinical trials is extremely important along with the actual results of the study. In this scenario, the exploration is equivalent to identifying the best treatment, and exploitation is treating patients as effectively as possible during the trial process.| Life Sciences
-Trading Strategy Optimization | Ability to optimize the trading strategy for an options-trading portfolio | Banking and Financial Services
-Load Balancing | Ability to balance the load of electricity grids in a situation of varying demand cycles |Energy and Utilities
-Effective Inventory Management with Robotics| Stock and pick inventory using Robots |Retail and CPG
-Network Routing | Routing is the process of selecting a path for traffic in a network, such as telephone networks or computer networks (internet) etc. Allocation of channels to the right users, such that the overall throughput is maximised, can be formulated as a MABP. | All
-Online Advertising | The goal of an advertising campaign is to maximise revenue from displaying ads. The advertiser makes revenue every time an offer is clicked by a web user. Similar to MABP, there is a trade-off between exploration, where the goal is to collect information on an ad’s performance using click-through rates, and exploitation, where we stick with the ad that has performed the best so far. | All
+|Use Case Theme | Description  | Industry Relevancy |
+|      ---      |     ---      |       ----         |
+|Clinical Trials | The well being of patients during clinical trials is extremely important along with the actual results of the study. In this scenario, the exploration is equivalent to identifying the best treatment, and exploitation is treating patients as effectively as possible during the trial process.| Life Sciences
+|Trading Strategy Optimization | Ability to optimize the trading strategy for an options-trading portfolio | Banking and Financial Services
+|Load Balancing | Ability to balance the load of electricity grids in a situation of varying demand cycles |Energy and Utilities
+|Effective Inventory Management with Robotics| Stock and pick inventory using Robots |Retail and CPG
+|Network Routing | Routing is the process of selecting a path for traffic in a network, such as telephone networks or computer networks (internet) etc. Allocation of channels to the right users, such that the overall throughput is maximised, can be formulated as a MABP. | All
+|Online Advertising | The goal of an advertising campaign is to maximise revenue from displaying ads. The advertiser makes revenue every time an offer is clicked by a web user. Similar to MABP, there is a trade-off between exploration, where the goal is to collect information on an ad’s performance using click-through rates, and exploitation, where we stick with the ad that has performed the best so far. | All
 
 **Other References:**
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
