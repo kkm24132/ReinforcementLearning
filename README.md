@@ -1,5 +1,8 @@
 # Reinforcement Learning (RL)
-Focuses on Reinforcement Learning related concepts, use cases and learning approaches
+
+This repository focuses on Reinforcement Learning related concepts, use cases, point of views and learning approaches. These are purely based on my learnings, readings, experiences in dealing with practical / real-life context and scenarios.
+
+### Structure of Repo
 
 - [**01_Introduction**](https://github.com/kkm24132/ReinforcementLearning/tree/main/01_Introduction) covers Key Terms used in RL, Basic elements, Concepts/Topics around RL etc.
 - [**02_MAB**](https://github.com/kkm24132/ReinforcementLearning/tree/main/02_MAB) covers Multi-Armed Bandit Problem area
@@ -7,7 +10,7 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - [**04_Temporal Difference Learning**](https://github.com/kkm24132/ReinforcementLearning/tree/main/04_TemporalDiff) covers Monte Carlo Methods
 - [**05_Dynamic Programming**](https://github.com/kkm24132/ReinforcementLearning/tree/main/05_DynamicProgramming) covers Dynamic Programming
 
-### Areas
+### Areas covered
 - Multi-Armed Bandit Problems (MABP)
 - Finite Markov Decision Processes (MDP)
 - Dynamic Programming Methods
@@ -16,7 +19,7 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - n-Step Bootstrapping
 - Tabular Solution Methods and Approximate Solution Methods
 
-### How to be Successful in implementing RL
+### **How to be Successful in implementing RL**
 
 - Figure out the Adoption factor and ensure "right" stakeholder blessings are met upfront
 - Identify "appropriate" business use case within the context of the industry / sub-industry / sub-segment : relevancy is a must
