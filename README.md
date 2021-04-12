@@ -35,6 +35,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 |      ---      |     ---      |       ----         |   ---    |
 |Pricing and Promotion Analytics | Ability to apply advanced pricing and promotion strategies to improve product margins | Agriculture | Next Best Actions for Customer
 |Waste and Cost reduction | Optimize warehouse logistics and network for reduced waste and maintenance cost reduction | Agriculture | Optimize Complex Operations 
+|Production Operations Management |Solving Scheduling and Production allocation challenges to optimize and improvise yield | Agriculture | Optimize Complex Operations
 |Clinical Trials | The well being of patients during clinical trials is extremely important along with the actual results of the study. In this scenario, the exploration is equivalent to identifying the best treatment, and exploitation is treating patients as effectively as possible during the trial process.| Life Sciences | Optimize Complex Operations
 |Trading Strategy Optimization | Ability to optimize the trading strategy for an options-trading portfolio | Financial Services | Optimize Complex Operations
 |Customer HyperPersonalization | Delivering advanced personalization abilities that adapt promotions, next best offers and recommendations for increase customer satisfaction and increased sales | Financial Services | Next Best Actions for Customer
