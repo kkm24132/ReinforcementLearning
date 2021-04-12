@@ -26,5 +26,10 @@
 - Policy Iteration Procedure : Policy Evaluation (PE) and Policy Improvement (PI)
 - Since Policy Improvement happens at every step until convergence and number of policies is finite, the policy improvement procedure is guaranteed to converge in a finite number of steps
 - Policy Iteration (using Iterative PE) for estimating ``` pi ~ pi_* ```
+- Value Iteration : directly works with the Bellman equation of optimality
+- Value Iteration Algorithm
+- Modified Policy Iteration(MPI): ``` As m --> infinity, Vm(s) --> Vpi_k(s)```
+  - MPI generalizes the PI and VI iteration procedures by allowing for any value of m_k >= 1
+- Geometric interpretation of VI and PI : V* = TV* 
 
 
