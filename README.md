@@ -2,7 +2,7 @@
 
 This repository focuses on Reinforcement Learning related concepts, use cases, point of views and learning approaches. These are purely based on my learnings, readings, experiences in dealing with practical / real-life context and scenarios.
 
-### Structure of Repo
+### Structure of Repository
 
 - [**01_Introduction**](https://github.com/kkm24132/ReinforcementLearning/tree/main/01_Introduction) covers Key Terms used in RL, Basic elements, Concepts/Topics around RL etc.
 - [**02_MAB**](https://github.com/kkm24132/ReinforcementLearning/tree/main/02_MAB) covers Multi-Armed Bandit Problem area
@@ -19,17 +19,17 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - n-Step Bootstrapping
 - Tabular Solution Methods and Approximate Solution Methods
 
-### **How to be Successful in implementing RL**
+### How to be Successful in implementing RL
 
 - Figure out the Adoption factor and ensure "right" stakeholder blessings are met upfront
 - Identify "appropriate" business use case within the context of the industry / sub-industry / sub-segment : relevancy is a must
 - Identify compute costs upfront and put together a "short term" and "long term" ROI plan to track tasks and how it benefits : we also need to see a pattern of our outcomes so that we can re-adjust and tweak the strategy in the process to stay effective and stay successful
 - Focus on simulation method and see how we can strategy for multiple use cases / related use cases and not just one or two use cases 
 
-This is where the difference between LEADERS and LAGGARDS in this space !!
+**This is where the difference between LEADERS and LAGGARDS in this space !!**
 
 
-### Use Cases
+### Use Cases (Non-exhaustive, for understanding purposes)
 
 Use Case Theme | Description  | Industry Relevancy
 ---------------|--------------|-------------------
@@ -58,7 +58,7 @@ Online Advertising | The goal of an advertising campaign is to maximise revenue 
   - Google SEED-RL [Here](https://research.google/pubs/pub48767/)
   - Amazon Sagemaker RL [Here](https://docs.aws.amazon.com/sagemaker/latest/dg/reinforcement-learning.html)
 
-### References
+### Reference Materials
 - Book1: [Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - Book2: [DL by Ian Goodfellow et al](https://www.deeplearningbook.org/)
 - RL from Stanford: [CS234](https://web.stanford.edu/class/cs234/)
