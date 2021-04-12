@@ -16,6 +16,16 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - n-Step Bootstrapping
 - Tabular Solution Methods and Approximate Solution Methods
 
+### How to be Successful in implementing RL
+
+- Figure out the Adoption factor and ensure "right" stakeholder blessings are met upfront
+- Identify "appropriate" business use case within the context of the industry / sub-industry / sub-segment : relevancy is a must
+- Identify compute costs upfront and put together a "short term" and "long term" ROI plan to track tasks and how it benefits : we also need to see a pattern of our outcomes so that we can re-adjust and tweak the strategy in the process to stay effective and stay successful
+- Focus on simulation method and see how we can strategy for multiple use cases / related use cases and not just one or two use cases 
+
+This is where the difference between LEADERS and LAGGARDS in this space !!
+
+
 ### Use Cases
 
 Use Case Theme | Description  | Industry Relevancy
