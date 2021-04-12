@@ -31,6 +31,14 @@ Online Advertising | The goal of an advertising campaign is to maximise revenue 
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
 - [Applications in real world](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
 
+### "Staying Current" in RL
+
+- There are 3 key aspects which are pertinent to greater control of RL algorithms and it's solving power:
+  - Design approach to see how rewards can be maximized when agent learns
+  - Importance and relevancy of the Learning environment
+  - Compute power which is significant where we look for approximation or linear/non-linear function approximations
+- 
+
 ### References
 - Book1: [Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - Book2: [DL by Ian Goodfellow et al](https://www.deeplearningbook.org/)
