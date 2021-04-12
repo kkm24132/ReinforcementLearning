@@ -37,9 +37,9 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 |Trading Strategy Optimization | Ability to optimize the trading strategy for an options-trading portfolio | Financial Services | Optimize Complex Operations
 |Customer HyperPersonalization | Delivering advanced personalization abilities that adapt promotions, next best offers and recommendations for increase customer satisfaction and increased sales | Financial Services | Next Best Actions for Customer
 |Load Balancing | Ability to balance the load of electricity grids in a situation of varying demand cycles | Energy and Utilities | Optimize Complex Operations
-|Effective Inventory Management with Robotics| Stock and pick inventory using Robots |Retail and CPG
-|Network Routing | Routing is the process of selecting a path for traffic in a network, such as telephone networks or computer networks (internet) etc. Allocation of channels to the right users, such that the overall throughput is maximised, can be formulated as a MABP. | All
-|Online Advertising | The goal of an advertising campaign is to maximise revenue from displaying ads. The advertiser makes revenue every time an offer is clicked by a web user. Similar to MABP, there is a trade-off between exploration, where the goal is to collect information on an ad’s performance using click-through rates, and exploitation, where we stick with the ad that has performed the best so far. | All
+|Effective Inventory Management with Robotics| Stock and pick inventory using Robots |Retail and CPG | Optimize Product Development Cycle / Design
+|Network Routing | Routing is the process of selecting a path for traffic in a network, such as telephone networks or computer networks (internet) etc. Allocation of channels to the right users, such that the overall throughput is maximised, can be formulated as a MABP. | Generic / Common | Optimize Product Development Cycle / Design
+|Online Advertising | The goal of an advertising campaign is to maximise revenue from displaying ads. The advertiser makes revenue every time an offer is clicked by a web user. Similar to MABP, there is a trade-off between exploration, where the goal is to collect information on an ad’s performance using click-through rates, and exploitation, where we stick with the ad that has performed the best so far. | Generic / Common | Next Best Actions for Customer
 
 **Other References:**
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
