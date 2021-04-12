@@ -1,5 +1,9 @@
 ## Introduction to Reinforcement Learning
 
+### How RL is different compared to Supervised and Unsupervised Learning
+
+![RLvsOthers](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RLvsOthers.png)
+
 ### Key Terms Used in RL
 - **Agent**: "The learner". Agent is the main part of a RL setup. From an example perspective, it could be a robot learning to do certain things as an agent, can be walking for that matter, or it could be an agent learning to "drive" a vehicle. They explore environments
 - **State**: This is the position the agent is at a given period. It changes when the agent moves. Different positions in a given environment is called as "State". State of the system summarizes the key characteristics of environment at any given point of time.
