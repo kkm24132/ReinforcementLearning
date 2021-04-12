@@ -16,6 +16,10 @@ Focuses on Reinforcement Learning related concepts, use cases and learning appro
 - n-Step Bootstrapping
 - Tabular Solution Methods and Approximate Solution Methods
 
+### How RL is different compared to Supervised and Unsupervised Learning
+
+RLvsOthers
+
 ### Use Cases
 
 Use Case Theme | Description  | Industry Relevancy
