@@ -14,10 +14,10 @@
 
 ### Solutions to Examples from the Book
 
-**Q4.1**
+- **Q4.1**
 ![Solution to Q4_1](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_1.png)
 
-**Q4.2**
+- **Q4.2**
 
 
 ### Summary Points
