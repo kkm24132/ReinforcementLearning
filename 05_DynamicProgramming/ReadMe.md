@@ -2,7 +2,7 @@
 
 ## Dynamic Programming
 
-**Contents of Chapter 4 related topics in Sutton and Barto content**
+### **Contents (From Chapter 4 in Sutton and Barto Book)**
 
 - Policy Evaluation prediction
 - Policy Improvement
@@ -11,6 +11,14 @@
 - Asynchronous Dynamic Programming
 - Generalized Policy Iteration
 - Efficiency of Dynamic Programming
+
+### Solutions to Examples from the Book
+
+**Q4.1**
+
+
+**Q4.2**
+
 
 ### Summary Points
 
