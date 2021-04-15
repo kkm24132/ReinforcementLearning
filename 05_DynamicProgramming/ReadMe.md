@@ -22,12 +22,13 @@
   - Start with an initial estimate V_0 of the value function
   - Iterate over k>=0 to obtain the update
   - Iterative PE for estimating V ~ V_pi
-- Iterative Policy Evaluation, for estimating V ≈ v_π
+- Iterative Policy Evaluation, for estimating ```V ≈ v_π```
 ![Iterative Policy Evaluation](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/IterativePolicyEvaluation.png)
 - Policy Improvement Step: Finds an improved policy by making it greedy with regards to value function of the original policy
 - Policy Iteration Procedure : Policy Evaluation (PE) and Policy Improvement (PI)
 - Since Policy Improvement happens at every step until convergence and number of policies is finite, the policy improvement procedure is guaranteed to converge in a finite number of steps
-- Policy Iteration (using Iterative PE) for estimating ``` pi ~ pi_* ```
+- Policy Iteration (using Iterative Policy evaluation) for estimating ```π ≈ π*```
+![Policy Iteration](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/PolicyIteration.png)
 - Value Iteration : directly works with the Bellman equation of optimality
 - Value Iteration Algorithm
 - Modified Policy Iteration(MPI): ``` As m --> infinity, Vm(s) --> Vpi_k(s)```
