@@ -43,4 +43,7 @@
 
 - **Solution to Q4.2**
 
+![Solution to Q4_2](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_2.png)
+
+- **Solution to Q4.3**
 
