@@ -12,15 +12,6 @@
 - Generalized Policy Iteration
 - Efficiency of Dynamic Programming
 
-### Solutions to Examples from the Book
-
-- **Solution to Q4.1**
-
-![Solution to Q4_1](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_1.png)
-
-- **Solution to Q4.2**
-
-
 ### Summary Points
 
 - DP refers to the collection of algorithms that can be used to compute the optimal policy given model information ```knowledge of p(s',r|s,a)``` 
@@ -43,5 +34,13 @@
 - Modified Policy Iteration(MPI): ``` As m --> infinity, Vm(s) --> Vpi_k(s)```
   - MPI generalizes the PI and VI iteration procedures by allowing for any value of m_k >= 1
 - Geometric interpretation of VI and PI : V* = TV* 
+
+### Solutions to Examples from the Book
+
+- **Solution to Q4.1**
+
+![Solution to Q4_1](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_1.png)
+
+- **Solution to Q4.2**
 
 
