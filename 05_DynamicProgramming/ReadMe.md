@@ -91,6 +91,7 @@
 
 - **Solution to Q4.9**
 
+  - Go [Here](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/DP_Ex4.9.ipynb) for the notebook for solution.
 
 - **Solution to Q4.10**
 
