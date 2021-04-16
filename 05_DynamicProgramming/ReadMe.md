@@ -67,3 +67,15 @@
 
 
 - **Solution to Q4.6**
+
+  - Suppose we are restricted to considering only policies that are "Epsilon-soft, meaning that the probability of selecting each action in each state, s, is at least "Epsilon/|A(s)|. Now we have to describe qualitatively the changes that would be required in each of the steps 3, 2, and 1, in that order, of the policy iteration algorithm for v_* on page 80 of the Barto book.
+    - Step 3 change recommendations:
+      - We will only determine policy-stable is false under the condition that the policy does not explore.
+    - Step 2 change recommendations:
+      - Theta should not be set above the limit of any Epsilon-soft method.
+    - Step 1 change recommendations: 
+      - Pi should be well-defined as Epsilon-soft method. Epsilon value should be given.
+ 
+- **Solution to Q4.7**
+
+
