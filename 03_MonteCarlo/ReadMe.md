@@ -11,6 +11,9 @@
   - Discounting-aware Importance Sampling
   - Per-decision Importance Sampling
 
+## Solutions to Exercises in the Book
+
+  - Solutions to [Chapter5 : Monte Carlo Methods is Here](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo/Solutions)
 
 ## Monte Carlo Methods
 
