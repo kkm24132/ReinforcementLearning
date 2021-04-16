@@ -95,5 +95,8 @@
 
 - **Solution to Q4.10**
 
+  - Analog for the Value Iteration update is q_(k+1) (s,a) is as follows:
+  
+  ![Solution to Q4_10](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_10.png)
 
 
