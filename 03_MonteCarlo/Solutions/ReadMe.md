@@ -1,6 +1,4 @@
 
-**This sub-repository contains solutions to exercises that are part of Chapter 5 in Sutton and Barto Book**
-
 ### Solutions to Examples from the Book
 
 -**Solution to Q5.1**
@@ -17,5 +15,7 @@
 
 -**Solution to Q5.2**
 
+  - Suppose every-visit MC was used instead of first-visit MC on the blackjack task. Would you expect the results to be very different? Why or why not?
+    - **Answer:** No. Black jack does not contain two duplicate state in any episode, making first-visit and every-visit method essentially the same thing.
 
 
