@@ -12,6 +12,9 @@
   - Why are the frontmost values higher in the upper diagrams than in the lower?
     - Frontmost values are higher in the upper diagrams because A represent dual values of being used as 1 and 11 in the upper diagram. It makes the player better off and is similar with the condition of having drop in the leftmost rows.
 
+![Solution to Q5_1](https://github.com/kkm24132/ReinforcementLearning/blob/main/03_MonteCarlo/Solutions/Q5_1.png)
+
+
 -**Solution to Q5.2**
 
 
