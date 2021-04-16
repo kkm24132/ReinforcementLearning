@@ -1,3 +1,17 @@
+
+## Contents (From Chapter 5 in Sutton and Barto Book)
+
+  - Monte Carlo Prediction
+  - Monte Carlo Estimation of Action Values
+  - Monte Carlo Control
+  - Monte Carlo Control without Exploring Starts
+  - Off-Policy Prediction via Importance Sampling
+  - Incremental Implementation
+  - Off-Policy Monte Carlo Control
+  - Discounting-aware Importance Sampling
+  - Per-decision Importance Sampling
+
+
 ## Monte Carlo Methods
 
 - Chapter 5 of Sutton and Barto book can be referenced for this.
