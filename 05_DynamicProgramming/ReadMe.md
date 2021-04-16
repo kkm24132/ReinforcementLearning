@@ -46,7 +46,7 @@
 ![Solution to Q4_2](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_2.png)
 
 - **Solution to Q4.3**
-
+Equations for action-value functions are captured with regards to relevant state-value functions
 ![Solution to Q4_3](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_3.png)
 
 - **Solution to Q4.4**
