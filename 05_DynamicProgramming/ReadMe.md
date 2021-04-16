@@ -59,3 +59,10 @@
     - Use the following step:
       - ``` If old-action ∉ { a_i }, which is the all equi-best solutions from Π(s)  , then policy-stable <-- false ``` 
 
+- **Solution to Q4.5**
+
+  - The question is regarding how would policy iteration be defined for action values? We need to give a complete algorithm for computing q⇤, analogous to that on Page 80 in the book, for computing v⇤. Below is a desired snapshot of the solution.
+
+  ![Solution to Q4_5](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_5.png)
+
+
