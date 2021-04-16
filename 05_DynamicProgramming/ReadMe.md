@@ -54,8 +54,8 @@
 - **Solution to Q4.4**
 
   - The policy iteration algorithm as per Page 80 in Sutton and Barto book has a subtle bug in that it may never terminate if the policy continually switches between two or more policies that are equally good. This is okay for pedagogy, but not for actual use. We want to modify the pseudocode so that convergence is guaranteed. Following can be used:
-  - Instead of the following step: 
-    - ``` If old-action ≠ Π(s) then policy-stable <-- false ```
-  - Use the following step:
-    - ``` If old-action ∉ { a_i }, which is the all equi-best solutions from Π(s)  , then policy-stable <-- false ``` 
+    - Instead of the following step: 
+      - ``` If old-action ≠ Π(s) then policy-stable <-- false ```
+    - Use the following step:
+      - ``` If old-action ∉ { a_i }, which is the all equi-best solutions from Π(s)  , then policy-stable <-- false ``` 
 
