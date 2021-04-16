@@ -81,3 +81,12 @@
   - Write a program for policy iteration and re-solve Jack’s car rental problem with the following changes. 
   - One of Jack’s employees at the first location rides a bus home each night and lives near the second location. She is happy to shuttle one car to the second location for free. Each additional car still costs $2, as do all cars moved in the other direction. In addition, Jack has limited parking space at each location. If more than 10 cars are kept overnight at a location (after any moving of cars), then an additional cost of $4 must be incurred to use a second parking lot (independent of how many cars are kept there). These sorts of nonlinearities and arbitrary dynamics often occur in real problems and cannot easily be handled by optimization methods other than dynamic programming. To check our program, we need to first replicate the results given for the original problem.
 
+- **Solution to Q4.8**
+
+ ![Solution to Q4_8](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Q4_8.png)
+
+  - The above Gambler's problem has such curious form of optimal policy because of the fact that, at number 50, we can suddenly win with probability p_h. Hence the optimal policy will bet all when Capital=50 and the possible dividends of it, like 25.
+  - 2nd thought is around Capital of 51, which one more than existing capital of 50. We can bet all when we have 51, however the optimal policy is to see if we can earn much from the additional $1. If this return g is positive, then we can say that we have extra g money and bet it again until Capital=75, where sudden win chance will come. On the contrary, if we bet 50 out of 51 first, then our chance of win is probability p_h and we lose the chance to reach Capital=75. Instead, we will have to try our best to reach 25 first with $1 if we lose the bet, much worse condition will exist.
+  - Conclusion with Summary: The indicated optimal policy creates more chances to win and guarantees the Gambler be better off when he/she loses.
+
+
