@@ -74,6 +74,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [Common RL Examples on Sagemaker](https://github.com/kkm24132/amazon-sagemaker-examples/tree/master/reinforcement_learning)
 - Initial Part MABPs: [Epsilon, epsilon-Greedy methods](https://www.datahubbs.com/multi_armed_bandits_reinforcement_learning_1/)
 - Advanced MABPs: [UCB Bandits, Gradient Bandits, Nonstationary Bandits](https://www.datahubbs.com/multi-armed-bandits-reinforcement-learning-2/)
+- [Intro RL](https://introrl.readthedocs.io/en/latest/index.html)
 
 ### Resources
 - [RL resource references](https://medium.com/datadriveninvestor/absolutely-free-resources-for-reinforcement-learning-d16a5230cb0f)
