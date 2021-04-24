@@ -10,6 +10,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [**04_Temporal Difference Learning**](https://github.com/kkm24132/ReinforcementLearning/tree/main/04_TemporalDiff) covers Monte Carlo Methods
 - [**05_Dynamic Programming**](https://github.com/kkm24132/ReinforcementLearning/tree/main/05_DynamicProgramming) covers Dynamic Programming
 - [**06_Approximation**](https://github.com/kkm24132/ReinforcementLearning/tree/main/06_Approximation) covers Online Prediction with Approximation
+- [**07_PolicyGradientMethods**](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods) covers Policy Gradient Methods
 
 ### Areas covered
 - Multi-Armed Bandit Problems (MABP)
@@ -19,6 +20,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - Temporal Difference (TD) Learning
 - n-Step Bootstrapping
 - Tabular Solution Methods and Approximate Solution Methods
+- Policy Gradient Methods
 
 ### How to be Successful in implementing RL
 
