@@ -10,6 +10,10 @@
 - Policy Gradient for Continuing Problems
 - Policy Parameterization for Continuous Actions
 
+### Algorithms
+
+Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods/Algorithms)
+
 ### Summary Points
 - Idea: Instead of parameterizing the value function and performing greedy policy improvement we parameterize the policy and do gradient descent into a direction that improves it.
 - Sometimes the policy is easier to approximate than the value function. Additionally, we need a parameterized policy to deal with continuous action spaces and environments where we need to act stochastically.
