@@ -9,6 +9,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [**03_Monte Carlo Methods**](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo) covers Monte Carlo Methods
 - [**04_Temporal Difference Learning**](https://github.com/kkm24132/ReinforcementLearning/tree/main/04_TemporalDiff) covers Monte Carlo Methods
 - [**05_Dynamic Programming**](https://github.com/kkm24132/ReinforcementLearning/tree/main/05_DynamicProgramming) covers Dynamic Programming
+- [**06_Approximation**](https://github.com/kkm24132/ReinforcementLearning/tree/main/06_Approximation) covers Online Prediction with Approximation
 
 ### Areas covered
 - Multi-Armed Bandit Problems (MABP)
