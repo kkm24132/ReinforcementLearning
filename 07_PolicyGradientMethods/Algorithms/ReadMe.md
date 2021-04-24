@@ -18,5 +18,7 @@
 ![Actor-Critic with Eligibility traces Episodic](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/ActorCritic_with_EligibilityTraces_Episodic.png)
 
 
+## Algorithm 5: Actor-Critic with Eligibility traces (Continuing)
 
+![Actor-Critic with Eligibility traces Continuing](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/ActorCritic_with_EligibilityTraces_Continuing.png)
 
