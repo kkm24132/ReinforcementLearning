@@ -20,6 +20,9 @@
 - REINFORCE Baseline: Instead of measuring the absolute goodness of an action we want to know how much better than "average" it is to take an action given a state. E.g. some states are naturally bad and always give negative reward. This is called the advantage and is defined as ```Q(s, a) - V(s)```. We use that for our policy update, e.g. ```g_t - V(s)``` for REINFORCE.
 - Actor-Critic: Instead of waiting until the end of an episode as in REINFORCE we use bootstrapping and make an update at each step. To do that we also train a Critic Q(theta) that approximates the value function. Now we have two function approximators: One of the policy, one for the critic. This is basically TD, but for Policy Gradients. A good estimate of the advantage function in the Actor-Critic algorithm is the td error. Our update then becomes ```grad(J(theta)) = Ex[grad(log(pi(s, a))) * td_error]```
 - Can use policy gradients with td-lambda, eligibility traces, and so on.
+- Deterministic Policy Gradients: Useful for high-dimensional continuous action spaces where stochastic policy gradients are expensive to compute. The idea is to update the policy in the direction of the gradient of the action-value function. To ensure exploration we can use an off-policy actor-critic algorithm with added noise in action selection.
+- Deep Deterministic Policy Gradients: Apply tricks from DQN to Deterministic Policy Gradients.
+- Asynchronous Advantage Actor-Critic (A3C): Instead of using an experience replay buffer as in DQN use multiple agents on different threads to explore the state spaces and make decorrelated updates to the actor and the critic.
 
 ### Solutions to Exercises
 
