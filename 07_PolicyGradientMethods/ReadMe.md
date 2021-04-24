@@ -11,7 +11,7 @@
 - Policy Parameterization for Continuous Actions
 
 ### Summary Points
-
+- Idea: Instead of parameterizing the value function and performing greedy policy improvement we parameterize the policy and do gradient descent into a direction that improves it.
 
 ### Solutions to Exercises
 
