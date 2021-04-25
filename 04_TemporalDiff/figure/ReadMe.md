@@ -1,0 +1,2 @@
+
+Contains image files.
