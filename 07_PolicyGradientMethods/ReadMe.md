@@ -27,7 +27,12 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 - Deterministic Policy Gradients: Useful for high-dimensional continuous action spaces where stochastic policy gradients are expensive to compute. The idea is to update the policy in the direction of the gradient of the action-value function. To ensure exploration we can use an off-policy actor-critic algorithm with added noise in action selection.
 - Deep Deterministic Policy Gradients: Apply tricks from DQN to Deterministic Policy Gradients.
 - Asynchronous Advantage Actor-Critic (A3C): Instead of using an experience replay buffer as in DQN use multiple agents on different threads to explore the state spaces and make decorrelated updates to the actor and the critic.
-- [Reference from Lilian Weng](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+
+
+### References
+- Reference from [Lilian Weng on Policy Gradient Algos](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+- Baseline for Policy Gradients - [The optimal reward baseline for gradient-based RL](https://arxiv.org/ftp/arxiv/papers/1301/1301.2315.pdf)
+- Deck on Policy Gradients by [UC Berkely Lecture CS285:Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-5.pdf)
 
 ### Solutions to Exercises
 
