@@ -86,6 +86,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 
 ### Resources
 - [Papers, Reports, Slides, and Other Material by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/publ.html)
+- [Awesome RL GitHub repo](https://github.com/aikorea/awesome-rl)
 - [RL resource references](https://medium.com/datadriveninvestor/absolutely-free-resources-for-reinforcement-learning-d16a5230cb0f)
 - [Deep RL at UC Berkeley: CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
