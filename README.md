@@ -53,6 +53,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [10 real life problems](https://neptune.ai/blog/reinforcement-learning-applications)
 - [Applications in real world](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
 - [RL Cheatsheets](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RL_CheatSheet.pdf)
+- [bsuite - Behavior Suite for RL from DeepMind team](https://github.com/deepmind/bsuite)
 
 ### "Staying Current" in RL
 
