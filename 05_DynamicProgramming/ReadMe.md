@@ -35,6 +35,9 @@
   - MPI generalizes the PI and VI iteration procedures by allowing for any value of m_k >= 1
 - Geometric interpretation of VI and PI : V* = TV* 
 
+### References
+- [Model based planning using DP](https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/)
+
 ### Solutions to Examples from the Book
 
 - **Solution to Q4.1**
