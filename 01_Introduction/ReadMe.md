@@ -75,7 +75,7 @@ Lower variance and Faster convergence | Higher variance and slower convergence (
 Less general methods | More general and powerful approaches (since they contain on-policy methods for the case when  Target Policy = Behaviour Policy)
 These are NOT needed where data can only be generated using a given policy while still the goal is to get to the optimal policy | These are needed where data can only be generated using a given policy while still the goal is to get to the optimal policy
 They Do NOT solve a constrained optimization problem in the sense of data availability | They solve a constrained optimization problem as opposed to On-Policy methods in the sense of data availability
-Example: SARSA and also Expected-SARSA | Example: Q-learning
+Example: SARSA and Expected-SARSA | Example: Q-learning
 
 
 ### Temporal Difference Method
