@@ -1,5 +1,10 @@
 ## Introduction to Reinforcement Learning
 
+
+![Agent Env Interaction](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/AgentEnv_RL.png)
+
+Source of image: http://www.incompleteideas.net/book/ebook/node28.html (Sutton and Barto Book)
+
 ### How RL is different compared to Supervised and Unsupervised Learning
 
 ![RLvsOthers](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RLvsOthers.png)
