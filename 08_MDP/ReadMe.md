@@ -23,5 +23,5 @@
   - A policy ```p1``` is better than ```p2``` if ```v_p1(s) >= v_p2(s)``` for all states s. 
   - For MDPs, there exist one or more optimal policies that are better than or equal to all other policies.
 - The optimal state value function ```v*(s)``` is the value function for the optimal policy. Same for ```q*(s, a)```. The Bellman Optimality Equation defines how the optimal value of a state is related to the optimal value of successor states. It has a "max" instead of an average.
-
+![Optimal Policy and Value Function](https://github.com/kkm24132/ReinforcementLearning/blob/main/08_MDP/figure/OptimalPolicy_ValueFunction.png)
 
