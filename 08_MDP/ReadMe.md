@@ -1,8 +1,8 @@
 # Finite Markov Decision Processes
 
-- Topics covered from Chapter3 in Sutton and Barto Book
-- Understanding Points
-- Problem Solving Examples
+- [Topics covered from Chapter3 in Sutton and Barto Book](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#topics-covered-from-chapter3-in-sutton-and-barto-book)
+- [Understanding Points](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#understanding-points)
+- [Problem Solving Examples](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#problem-solving-examples)
 
 
 ## Topics covered from Chapter3 in Sutton and Barto Book
@@ -13,6 +13,8 @@
 - Policies and Value Functions
 - Optimal Policies and Optimal Value Functions
 - Optimality and Approximation
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#finite-markov-decision-processes)
 
 ## Understanding Points
 
@@ -29,7 +31,16 @@
 - The optimal state value function ```v*(s)``` is the value function for the optimal policy. Same for ```q*(s, a)```. The Bellman Optimality Equation defines how the optimal value of a state is related to the optimal value of successor states. It has a "max" instead of an average.
 ![Optimal Policy and Value Function](https://github.com/kkm24132/ReinforcementLearning/blob/main/08_MDP/figure/OptimalPolicy_ValueFunction.png)
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#finite-markov-decision-processes)
+
+
 ## Problem Solving Examples
+
+
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#finite-markov-decision-processes)
+
 
 
 
