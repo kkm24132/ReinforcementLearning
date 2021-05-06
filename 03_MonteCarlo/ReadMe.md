@@ -121,6 +121,14 @@ Constraint problem
 
 ## Example Problem Solving
 
+- **Problem 1:** Consider an MDP with a single non-terminal state (NT) and two terminal states T1 and T2, respectively. When in state NT, the next state is NT itself with probability 0.6, T1 with probability 0.2 or T2 with probability 0.2, respectively. If the transition from NT is to either NT itself or to T1, the single-stage reward is 1. On the other hand, if the transition from NT is to T2, the single-stage reward is 0. We observe two episodes of this MDP both starting in state NT. The first episode terminates in T1 and gives a total reward of 16. The second episode terminates in T2 and gives a total reward of 6.
+  - We have to write down both the episodes completely by writing the sequence of states visited and single-stage reward obtained.
+  - We need to find out first visit and every visit estimates of the value of NT.
+  - We need to compute how many estimates are obtained for first visit and every visit estimators.
+  - We need to find the value of NT obtained from (i) the first visit estimators and (ii) every visit estimators.
+
+
+
 
 [Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#contents---monte-carlo-methods)
 
