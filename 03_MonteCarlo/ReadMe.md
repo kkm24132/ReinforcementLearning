@@ -1,19 +1,19 @@
 
 # Contents - Monte Carlo Methods
-- Core Topics from Chapter5 in Sutton and Barto Book
+- [Core Topics from Chapter5 in Sutton and Barto Book](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#core-topics-from-chapter5-in-sutton-and-barto-book)
 - Solutions to Exercises
 - Understanding Points
-  - Introduction
-  - Monte Carlo Policy Evaluation
-  - First-Visit Monte Carlo
-  - Every-Visit Monte Carlo
-  - Monte Carlo Control
-  - MC with Exploring Starts (ES)
-  - Off-Policy MC Prediction Procedure
-  - Off-Policy MC Control Procedure
-  - Discounting Aware Importance Sampling
-- Example Problem Solving
-- References 
+  - [Introduction](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#introduction)
+  - [Monte Carlo Policy Evaluation](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#monte-carlo-policy-evaluation)
+  - [First-Visit Monte Carlo](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#first-visit-monte-carlo)
+  - [Every-Visit Monte Carlo](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#every-visit-monte-carlo)
+  - [Monte Carlo Control](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#monte-carlo-control)
+  - [MC with Exploring Starts (ES)](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#mc-with-exploring-starts-es)
+  - [Off-Policy MC Prediction Procedure](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#off-policy-mc-prediction-procedure)
+  - [Off-Policy MC Control Procedure](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#off-policy-mc-control-procedure)
+  - [Discounting Aware Importance Sampling](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#discounting-aware-importance-sampling)
+- [Example Problem Solving](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#example-problem-solving)
+- [References](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#references) 
 
 
 ## Core Topics from Chapter5 in Sutton and Barto Book
@@ -27,8 +27,13 @@
   - Discounting-aware Importance Sampling
   - Per-decision Importance Sampling
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#contents---monte-carlo-methods)
+
 ## Solutions to Exercises
   - Solutions to [Chapter5 : Monte Carlo Methods is Here](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo/Solutions)
+
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#contents---monte-carlo-methods)
 
 ## Understanding Points
 
@@ -112,10 +117,12 @@ Constraint problem
   - Can reduce variance even when Gamma=1
 - Ordinary IS Estimator - research problem - Not clear f there exists a per-decision version of weighted IS and all estimates proposed in literature do not converge to true value.
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#contents---monte-carlo-methods)
 
 ## Example Problem Solving
 
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#contents---monte-carlo-methods)
 
 ## References
 - Chapter 5 of Sutton and Barto book can be referenced for this.
