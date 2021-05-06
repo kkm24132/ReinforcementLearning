@@ -1,7 +1,11 @@
-## Finite Markov Decision Processes
+# Finite Markov Decision Processes
 
-### **Contents (From Chapter 3 in Sutton and Barto Book)**
+- Topics covered from Chapter3 in Sutton and Barto Book
+- Understanding Points
+- Problem Solving Examples
 
+
+## Topics covered from Chapter3 in Sutton and Barto Book
 - The Agent-Environment Interface
 - Goals and Rewards
 - Returns and Episodes
@@ -10,7 +14,7 @@
 - Optimal Policies and Optimal Value Functions
 - Optimality and Approximation
 
-### Summary Points
+## Understanding Points
 
 - Agent & Environment Interface: At each step ```t``` the agent receives a state ```S_t```, performs an action ```A_t``` and receives a reward ```R_{t+1}```. The action is chosen according to a policy function ```pi```.
 - The total return ```G_t``` is the sum of all rewards starting from time t . Future rewards are discounted at a discount rate ```gamma^k```.
@@ -24,4 +28,8 @@
   - For MDPs, there exist one or more optimal policies that are better than or equal to all other policies.
 - The optimal state value function ```v*(s)``` is the value function for the optimal policy. Same for ```q*(s, a)```. The Bellman Optimality Equation defines how the optimal value of a state is related to the optimal value of successor states. It has a "max" instead of an average.
 ![Optimal Policy and Value Function](https://github.com/kkm24132/ReinforcementLearning/blob/main/08_MDP/figure/OptimalPolicy_ValueFunction.png)
+
+## Problem Solving Examples
+
+
 
