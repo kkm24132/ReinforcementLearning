@@ -37,6 +37,12 @@
 
 ## Problem Solving Examples
 
+- Problem 1:
+
+![Problem 1a](https://github.com/kkm24132/ReinforcementLearning/blob/main/08_MDP/figure/MDP_Problem1a.png)
+
+![Problem 1b](https://github.com/kkm24132/ReinforcementLearning/blob/main/08_MDP/figure/MDP_Problem1b.png)
+
 
 
 [Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP#finite-markov-decision-processes)
