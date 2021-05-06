@@ -1,7 +1,7 @@
 
 # Contents - Monte Carlo Methods
 - [Core Topics from Chapter5 in Sutton and Barto Book](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#core-topics-from-chapter5-in-sutton-and-barto-book)
-- Solutions to Exercises
+- [Solutions to Exercises](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#solutions-to-exercises)
 - Understanding Points
   - [Introduction](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#introduction)
   - [Monte Carlo Policy Evaluation](https://github.com/kkm24132/ReinforcementLearning/tree/main/03_MonteCarlo#monte-carlo-policy-evaluation)
