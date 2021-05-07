@@ -36,7 +36,7 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 
 ### Solutions to Exercises
 
-- **13.1: Use your knowledge of the gridworld and its dynamics to determine an exact symbolic expression for the optimal probability of selecting the right action in Example 13.1.**
+- **Exercise 13.1: Use your knowledge of the gridworld and its dynamics to determine an exact symbolic expression for the optimal probability of selecting the right action in Example 13.1.**
   - Let's consider p = P(Right), hence P(Left) = 1-p
   - Then we will label states 1-3 from Right to Left
   - Value of Terminal state is set to 0
@@ -55,12 +55,13 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
   f is defined on the open interval (0,1), the performance becomes infinity as p -> 0,1
   ```
 
-- **13.2: Generalize the box on page 199, the policy gradient theorem (13.5), the proof of the policy gradient theorem (page 325), and the steps leading to the REINFORCE update equation (13.8), so that (13.8) ends up with a factor of #t and thus aligns with the general algorithm given in the pseudocode.**
+- **Exercise 13.2: Generalize the box on page 199, the policy gradient theorem (13.5), the proof of the policy gradient theorem (page 325), and the steps leading to the REINFORCE update equation (13.8), so that (13.8) ends up with a factor of #t and thus aligns with the general algorithm given in the pseudocode.**
 
   - 
 
 
-- **13.4**
+- **Exercise 13.4**
+
 ![Exercise problem 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Exercise13.4.png)
 
 ![Exercise solution 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.4.png)
