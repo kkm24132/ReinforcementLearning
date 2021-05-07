@@ -83,6 +83,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - Initial Part MABPs: [Epsilon, epsilon-Greedy methods](https://www.datahubbs.com/multi_armed_bandits_reinforcement_learning_1/)
 - Advanced MABPs: [UCB Bandits, Gradient Bandits, Nonstationary Bandits](https://www.datahubbs.com/multi-armed-bandits-reinforcement-learning-2/)
 - [Intro RL](https://introrl.readthedocs.io/en/latest/index.html)
+- [Top 10 Deep RL Papers in 2019 by Robert T Lange](https://roberttlange.github.io/posts/2019/12/blog-post-9/)
 
 ### Resources
 - [Papers, Reports, Slides, and Other Material by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/publ.html)
