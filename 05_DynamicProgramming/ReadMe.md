@@ -41,6 +41,8 @@
 
 ![Properties_to_Evaluate_PE_Algo](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Properties_to_Evaluate_PE_Algo.png)
 
+P.S: * For tabular representations of Value Function
+
 ### Solutions to Examples from the Book
 
 - **Solution to Q4.1**
