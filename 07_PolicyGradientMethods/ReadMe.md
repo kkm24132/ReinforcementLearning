@@ -73,6 +73,12 @@ and the theorem follows as before.
 ![Exercise solution 13.23](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.23.png)
 
 
+- **Exercise 13.3**
+
+
+![Exercise solution 13.3](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.3.png)
+
+
 - **Exercise 13.4: Gaussian Policy parameterization**
 
 ![Exercise problem 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Exercise13.4.png)
