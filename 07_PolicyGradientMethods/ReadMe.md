@@ -1,6 +1,6 @@
 
 # Policy Gradient Methods 
-- Contents from Chapter 12 in SB Book
+- Contents from Chapter 13 in Sutton and Barto Book
 - Algorithms
 - Understanding Points
 - Solutions to Exercises
@@ -8,7 +8,7 @@
 
 
 
-## Contents (From Chapter 13 in Sutton and Barto Book)
+## Contents from Chapter 13 in Sutton and Barto Book
 - Policy Approximation and its Advantages
 - The Policy Gradient Theorem
 - REINFORCE: Monte Carlo Policy Gradient
