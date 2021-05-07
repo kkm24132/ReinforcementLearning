@@ -1,10 +1,10 @@
 
 # Policy Gradient Methods 
-- Contents from Chapter 13 in Sutton and Barto Book
-- Algorithms
-- Understanding Points
-- Solutions to Exercises
-- References
+- [Contents from Chapter 13 in Sutton and Barto Book](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#contents-from-chapter-13-in-sutton-and-barto-book)
+- [Algorithms](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#algorithms)
+- [Understanding Points](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#understanding-points)
+- [Solutions to Exercises](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#solutions-to-exercises)
+- [References](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#references)
 
 
 
