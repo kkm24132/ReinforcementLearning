@@ -37,6 +37,9 @@
 
 ### References
 - [Model based planning using DP](https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/)
+- Important properties to evaluate Policy Evaluation algorithms (Compare DP / MC / TD)
+
+![Properties_to_Evaluate_PE_Algo](https://github.com/kkm24132/ReinforcementLearning/blob/main/05_DynamicProgramming/Properties_to_Evaluate_PE_Algo.png)
 
 ### Solutions to Examples from the Book
 
