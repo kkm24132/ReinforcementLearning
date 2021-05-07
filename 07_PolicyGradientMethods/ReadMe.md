@@ -57,13 +57,16 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 
 - **Exercise 13.2: Generalize the box on page 199, the policy gradient theorem (13.5), the proof of the policy gradient theorem (page 325), and the steps leading to the REINFORCE update equation (13.8), so that (13.8) ends up with a factor of #t and thus aligns with the general algorithm given in the pseudocode.**
 
-  - 
+
+![Exercise solution 13.2](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.2.png) 
 
 
 - **Exercise 13.4**
 
 ![Exercise problem 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Exercise13.4.png)
 
+- **Answer**
+- 
 ![Exercise solution 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.4.png)
 
 
