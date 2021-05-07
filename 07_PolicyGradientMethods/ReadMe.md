@@ -57,8 +57,20 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 
 - **Exercise 13.2: Generalize the box on page 199, the policy gradient theorem (13.5), the proof of the policy gradient theorem (page 325), and the steps leading to the REINFORCE update equation (13.8), so that (13.8) ends up with a factor of #t and thus aligns with the general algorithm given in the pseudocode.**
 
+  - Generalisation of the recursion equation that governs expected time in each state can be represented as per below: 
 
-![Exercise solution 13.2](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.2.png) 
+![Exercise solution 13.21](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.21.png) 
+
+
+  - The generalisation of the proof of the policy gradient theorem comes with the use of the Bellman equation unfolding for the value function. We therefore arrive at the following gradient:
+
+![Exercise solution 13.22](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.22.png) 
+
+and the theorem follows as before.
+
+  - In order for us to incorporate discounting "Gamma" fully, we need to view it as a form of termination. Therefore, the Policy Gradient Theorem becomes the following:
+
+![Exercise solution 13.23](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.23.png)
 
 
 - **Exercise 13.4**
