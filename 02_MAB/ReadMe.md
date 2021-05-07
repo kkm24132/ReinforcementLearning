@@ -24,6 +24,8 @@ This will focus on Multi Armed Bandit Problems.
 - Action-Value Methods
   - Estimate the values of actions
   - Use the estimates obtained for action selection decisions
+- MAB Compare : A parameter study of various bandit algorithms used (Epsilon-Greedy, UCB, Gradient Bandit, Greedy with Optimistic Initialization etc.). Each point is the average reward obtained over 1000 steps with a particular algorithm at a particular setting of its parameter.
+![MAB Compare](https://github.com/kkm24132/ReinforcementLearning/blob/main/02_MAB/MAB_Compare.png)
 
 [Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/02_MAB/ReadMe.md#contents-multi-armed-bandits-mab)
 
