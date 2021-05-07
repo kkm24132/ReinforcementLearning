@@ -1,7 +1,14 @@
 
-## Policy Gradient Methods 
+# Policy Gradient Methods 
+- Contents from Chapter 12 in SB Book
+- Algorithms
+- Understanding Points
+- Solutions to Exercises
+- References
 
-### Contents (From Chapter 13 in Sutton and Barto Book)
+
+
+## Contents (From Chapter 13 in Sutton and Barto Book)
 - Policy Approximation and its Advantages
 - The Policy Gradient Theorem
 - REINFORCE: Monte Carlo Policy Gradient
@@ -10,11 +17,11 @@
 - Policy Gradient for Continuing Problems
 - Policy Parameterization for Continuous Actions
 
-### Algorithms
+## Algorithms
 
 Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods/Algorithms)
 
-### Summary Points
+## Understanding Points
 - Idea: Instead of parameterizing the value function and performing greedy policy improvement we parameterize the policy and do gradient descent into a direction that improves it.
 - Sometimes the policy is easier to approximate than the value function. Additionally, we need a parameterized policy to deal with continuous action spaces and environments where we need to act stochastically.
 - Policy Score Function ```J(theta)```: Intuitively, it measures how good our policy is. For example, we can use the average value or average reward under a policy as our objective.
@@ -29,12 +36,8 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 - Asynchronous Advantage Actor-Critic (A3C): Instead of using an experience replay buffer as in DQN use multiple agents on different threads to explore the state spaces and make decorrelated updates to the actor and the critic.
 
 
-### References
-- Reference from [Lilian Weng on Policy Gradient Algos](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
-- Baseline for Policy Gradients - [The optimal reward baseline for gradient-based RL](https://arxiv.org/ftp/arxiv/papers/1301/1301.2315.pdf)
-- Deck on Policy Gradients by [UC Berkely Lecture CS285:Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-5.pdf)
 
-### Solutions to Exercises
+## Solutions to Exercises
 
 - **Exercise 13.1: Use your knowledge of the gridworld and its dynamics to determine an exact symbolic expression for the optimal probability of selecting the right action in Example 13.1.**
   - Let's consider p = P(Right), hence P(Left) = 1-p
@@ -86,5 +89,13 @@ and the theorem follows as before.
 **Answer**
  
 ![Exercise solution 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.4.png)
+
+
+
+## References
+- Reference from [Lilian Weng on Policy Gradient Algos](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+- Baseline for Policy Gradients - [The optimal reward baseline for gradient-based RL](https://arxiv.org/ftp/arxiv/papers/1301/1301.2315.pdf)
+- Deck on Policy Gradients by [UC Berkely Lecture CS285:Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-5.pdf)
+
 
 
