@@ -17,9 +17,15 @@
 - Policy Gradient for Continuing Problems
 - Policy Parameterization for Continuous Actions
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#policy-gradient-methods)
+
 ## Algorithms
 
 Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods/Algorithms)
+
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#policy-gradient-methods)
 
 ## Understanding Points
 - Idea: Instead of parameterizing the value function and performing greedy policy improvement we parameterize the policy and do gradient descent into a direction that improves it.
@@ -35,6 +41,8 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 - Deep Deterministic Policy Gradients: Apply tricks from DQN to Deterministic Policy Gradients.
 - Asynchronous Advantage Actor-Critic (A3C): Instead of using an experience replay buffer as in DQN use multiple agents on different threads to explore the state spaces and make decorrelated updates to the actor and the critic.
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#policy-gradient-methods)
 
 
 ## Solutions to Exercises
@@ -91,11 +99,14 @@ and the theorem follows as before.
 ![Exercise solution 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.4.png)
 
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#policy-gradient-methods)
 
 ## References
 - Reference from [Lilian Weng on Policy Gradient Algos](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 - Baseline for Policy Gradients - [The optimal reward baseline for gradient-based RL](https://arxiv.org/ftp/arxiv/papers/1301/1301.2315.pdf)
 - Deck on Policy Gradients by [UC Berkely Lecture CS285:Sergey Levine](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-5.pdf)
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods#policy-gradient-methods)
 
 
