@@ -60,7 +60,7 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
   - 
 
 
-- **13.4
+- **13.4**
 ![Exercise problem 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Exercise13.4.png)
 
 ![Exercise solution 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.4.png)
