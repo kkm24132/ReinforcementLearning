@@ -24,6 +24,8 @@ This covers Chapter 9 of Sutton and Barto book.
 - Memory Based Function Approximation
 - Kernel Based Function Approximation 
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
+
 ## Understanding Points
 - To handle large number of states (Example: Routing in a communication network)
   - Approximate the Value Function
@@ -41,10 +43,17 @@ This covers Chapter 9 of Sutton and Barto book.
 - Semi-Gradient TD(0) Update
 - Update Rule: TD(0) with function approximation
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
+
+
 ## Examples
 
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
+
 ## References
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
 
 
