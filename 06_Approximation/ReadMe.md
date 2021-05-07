@@ -42,6 +42,9 @@ This covers Chapter 9 of Sutton and Barto book.
 - Gradient MC Update
 - Semi-Gradient TD(0) Update
 - Update Rule: TD(0) with function approximation
+- Semi-gradient TD(0) algorithm to estimate v_hat = v_pi
+- w_TD is the TD fixed point = A^(-1) * b
+- NonLinear Architectures : Feedforward Neural Net with single hidden layer
 
 [Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
 
