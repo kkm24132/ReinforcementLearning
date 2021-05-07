@@ -62,7 +62,7 @@ Algorithms can be referred [here](https://github.com/kkm24132/ReinforcementLearn
 ![Exercise solution 13.21](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.21.png) 
 
 
-  - The generalisation of the proof of the policy gradient theorem comes with the use of the Bellman equation unfolding for the value function. We therefore arrive at the following gradient:
+  - The generalisation of the proof of the Policy Gradient Theorem comes with the use of the Bellman equation unfolding for the value function. We therefore arrive at the following gradient:
 
 ![Exercise solution 13.22](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.22.png) 
 
@@ -73,12 +73,12 @@ and the theorem follows as before.
 ![Exercise solution 13.23](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.23.png)
 
 
-- **Exercise 13.4**
+- **Exercise 13.4: Gaussian Policy parameterization**
 
 ![Exercise problem 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Exercise13.4.png)
 
 - **Answer**
-- 
+ 
 ![Exercise solution 13.4](https://github.com/kkm24132/ReinforcementLearning/blob/main/07_PolicyGradientMethods/figure/Solution13.4.png)
 
 
