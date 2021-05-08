@@ -1,7 +1,7 @@
 # Contents on TD
 - [Topics from the SB Book Chapter 6](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#topics-from-the-sb-book-chapter-6)
 - [Understanding Points](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#understanding-points)
-- Exercise Problem Solving
+- [Exercise Problem Solving](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#exercise-problem-solving)
 - References
 
 
