@@ -15,6 +15,9 @@
 - Maximization Bias and Double Learning
 - Games, Afterstates and Other Special Cases 
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#contents-on-td)
+
 ## Understanding Points
 
 - Temporal Difference is part of Prof Sutton's PhD work in 1984
@@ -24,9 +27,18 @@
 - In TD method, we keep on updating the values of states as they are visited.
 - TD Algorithms perform Bootstrapping - i.e. update values of states based on values of other states
 
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#contents-on-td)
+
 ## Exercise Problem Solving
 
 
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#contents-on-td)
+
+
 ## References
+
+
+[Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#contents-on-td)
 
 
