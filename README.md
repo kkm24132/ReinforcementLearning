@@ -54,6 +54,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [Applications in real world](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
 - [RL Cheatsheets](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RL_CheatSheet.pdf)
 - [bsuite - Behavior Suite for RL from DeepMind team](https://github.com/deepmind/bsuite)
+- [Actor-Critic Reinforcement Learning for Energy Optimization in Hybrid Production Environments](https://www.researchgate.net/publication/338374927_Actor-Critic_Reinforcement_Learning_for_Energy_Optimization_in_Hybrid_Production_Environments) - management and optimisation of energy flows. Everything from the world of power grids could be optimised with RL. From operations and maintenance of microgrids to the optimisation of emergency control procedures, RL could be applied to all the control flows. Heating, ventilation and air conditioning systems (HVAC) are another candidate for optimisation, as energy consumption is a huge cost factor for all industrial sites.
 
 ![Bsuite from DeepMind team](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RadarPlot_BSuite_RL.png)
 
