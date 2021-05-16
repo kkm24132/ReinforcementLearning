@@ -93,3 +93,12 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [Deep RL at UC Berkeley: CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ![Using RL and multi-armed bandits to find Best Classification Model](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RL_AWS_BestClassfn_Model.png)
+
+### FAQ 
+- To setup and experiment on a cloud platform such as AWS
+  - Please setup an [AWS Sagemaker account](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
+  - Ensure to have [IAM User and Role setup](https://docs.aws.amazon.com/sagemaker/latest/dg/authentication-and-access-control.html) appropriately for authentication and access control
+  - Establish an [Amazon Sagemaker Notebook Instance](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-setup-working-env.html)
+  - Establish a [S3 Bucket](https://docs.aws.amazon.com/sagemaker/latest/dg/gs-config-permissions.html)
+- Similarly it can be explored for IBM Watson / IBM Cloud OR GCP or Azure
+
