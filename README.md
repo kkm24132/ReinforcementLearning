@@ -13,7 +13,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [**07_PolicyGradientMethods**](https://github.com/kkm24132/ReinforcementLearning/tree/main/07_PolicyGradientMethods) covers Policy Gradient Methods
 - [**08_MDP**](https://github.com/kkm24132/ReinforcementLearning/tree/main/08_MDP) covers Finite Markov Decision Processes
 
-### Areas covered
+## Areas covered
 - Multi-Armed Bandit Problems (MABP)
 - Finite Markov Decision Processes (MDP)
 - Dynamic Programming Methods
