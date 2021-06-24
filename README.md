@@ -22,7 +22,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - Tabular Solution Methods and Approximate Solution Methods
 - Policy Gradient Methods
 
-### How to be Successful in implementing RL
+## How to be Successful in implementing RL
 
 - Figure out the Adoption factor and ensure "right" stakeholder blessings are met upfront
 - Identify "appropriate" business use case within the context of the industry / sub-industry / sub-segment : relevancy is a must
@@ -32,7 +32,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 **This is where the difference between LEADERS and LAGGARDS in this space !!**
 
 
-### Use Cases (Non-exhaustive, for understanding purposes)
+## Use Cases (Non-exhaustive, for understanding purposes)
 
 |Use Case Theme | Description  | Industry Relevancy | Category |
 |      ---      |     ---      |       ----         |   ---    |
@@ -58,7 +58,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 
 ![Bsuite from DeepMind team](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RadarPlot_BSuite_RL.png)
 
-### "Staying Current" in RL
+## "Staying Current" in RL
 
 - There are 3 key aspects which are pertinent to greater control of RL algorithms and it's solving power:
   - **Design approach** to see how rewards can be maximized when agent learns
@@ -72,7 +72,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
   - Google SEED-RL [Here](https://research.google/pubs/pub48767/)
   - Amazon Sagemaker RL [Here](https://docs.aws.amazon.com/sagemaker/latest/dg/reinforcement-learning.html)
 
-### Reference Materials
+## Reference Materials
 - Book1: [Richard Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - Book2: [Neuro-dynamic Programming - by Dimitri Bertsekas and John Tsitsiklis](http://www.athenasc.com/ndpbook.html), [Book link from Amazon](https://www.amazon.in/Neuro-Dynamic-Programming-Optimization-Neural-Computation/dp/1886529108)
 - Book3: [DL by Ian Goodfellow et al](https://www.deeplearningbook.org/)
@@ -86,7 +86,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 - [Intro RL](https://introrl.readthedocs.io/en/latest/index.html)
 - [Top 10 Deep RL Papers in 2019 by Robert T Lange](https://roberttlange.github.io/posts/2019/12/blog-post-9/)
 
-### Resources
+## Resources
 - [Papers, Reports, Slides, and Other Material by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/publ.html)
 - [Awesome RL GitHub repo](https://github.com/aikorea/awesome-rl)
 - [RL resource references](https://medium.com/datadriveninvestor/absolutely-free-resources-for-reinforcement-learning-d16a5230cb0f)
@@ -94,7 +94,7 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 
 ![Using RL and multi-armed bandits to find Best Classification Model](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RL_AWS_BestClassfn_Model.png)
 
-### FAQ 
+## FAQ 
 - To setup and experiment on a cloud platform such as AWS
   - Please setup an [AWS Sagemaker account](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
   - Ensure to have [IAM User and Role setup](https://docs.aws.amazon.com/sagemaker/latest/dg/authentication-and-access-control.html) appropriately for authentication and access control
