@@ -1,4 +1,4 @@
-# Contents on TD
+# Temporal Difference Methods
 This Repository comprises of the following content areas which focus on TD (Temporal Difference Learning) methods in RL:
 
 - [Topics from the SB Book Chapter 6](https://github.com/kkm24132/ReinforcementLearning/blob/main/04_TemporalDiff/ReadMe.md#topics-from-the-sb-book-chapter-6)
