@@ -1,4 +1,4 @@
-# Contents: Multi-Armed Bandits (MAB)
+# Multi-Armed Bandits (MAB)
 This will focus on Multi Armed Bandit Problems.
 
 - [Topics in Sutton and Barto Book](https://github.com/kkm24132/ReinforcementLearning/blob/main/02_MAB/ReadMe.md#topics-in-sutton-and-barto-book)
