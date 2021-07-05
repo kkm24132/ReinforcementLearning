@@ -1,6 +1,5 @@
 
-
-## Dynamic Programming
+# Dynamic Programming
 
 ### **Contents (From Chapter 4 in Sutton and Barto Book)**
 
