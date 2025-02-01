@@ -48,9 +48,7 @@ This covers Chapter 9 of Sutton and Barto book.
 
 [Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
 
-
 ## Examples
-
 
 [Back to Top](https://github.com/kkm24132/ReinforcementLearning/blob/main/06_Approximation/ReadMe.md#online-prediction-with-approximation)
 
