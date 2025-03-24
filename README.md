@@ -59,7 +59,6 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 ![Bsuite from DeepMind team](https://github.com/kkm24132/ReinforcementLearning/blob/main/01_Introduction/RadarPlot_BSuite_RL.png)
 
 ## "Staying Current" in RL
-
 - There are 3 key aspects which are pertinent to greater control of RL algorithms and it's solving power:
   - **Design approach** to see how rewards can be maximized when agent learns
   - Importance and relevancy of **the Learning environment**
