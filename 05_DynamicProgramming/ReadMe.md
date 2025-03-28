@@ -35,6 +35,7 @@
 - Geometric interpretation of VI and PI : V* = TV* 
 
 ### References
+
 - [Model based planning using DP](https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/)
 - Important properties to evaluate Policy Evaluation algorithms (Compare DP / MC / TD)
 
