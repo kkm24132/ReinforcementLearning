@@ -31,7 +31,6 @@ This repository focuses on Reinforcement Learning related concepts, use cases, p
 
 **This is where the difference between LEADERS and LAGGARDS in this space !!**
 
-
 ## Use Cases (Non-exhaustive, for understanding purposes)
 
 |Use Case Theme | Description  | Industry Relevancy | Category |
